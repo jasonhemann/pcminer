@@ -1,0 +1,12 @@
+Lars Bergstrom
+Martin Elsman
+Matthew Fluet
+Jacques Garrigue
+Oleg Kiselyov
+Julia Lawall
+Andrey Mokhov
+Benoît Montagu
+Guillaume Munch-Maccagnoni
+Matija Pretnar
+Andreas Rossberg
+Gabriel Scherer
