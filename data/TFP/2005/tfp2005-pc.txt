@@ -12,7 +12,7 @@ John O'Donnell
 Ricardo Pe&ntilde;a
 Rinus Plasmeijer
 Claus Reinke
-Sven Bodo Scholz
+Sven-Bodo Scholz
 Doaitse Swierstra
 Philip W. Trinder
 Tarmo Uustalu
